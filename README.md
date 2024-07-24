@@ -3,9 +3,9 @@
 👀 I’m interested in
   - Software / GUI development in C#
   - library/backend development
+  - Developing programming/scripting languages
 
-🌱 I’m currently working on my own immediate mode GUI toolkit (hydrogen) for C#
---> Make sure to check out hydrogen!
+🌱 I’m currently working on my own scripting language. More information soon.
 
 ⚡ Fun fact: developing desktop apps on mac sucks.
 
